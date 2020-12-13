@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "secret token rog Shuva",
+    "mongoUrl":"mongodb+srv://shuva:shuva123qwe@cluster0.zkxtf.mongodb.net/Products?retryWrites=true&w=majority"
+}
